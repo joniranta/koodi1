@@ -1,2 +1,2 @@
 browsers firefox, explorer
-database mysql
+database mysql, sql server
